@@ -166,5 +166,6 @@ First Draft: A basic draft of the report, case study, article, or story generate
 Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+```
 Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
