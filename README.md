@@ -1,9 +1,10 @@
+```
 REG NO : 212223240145
 DATE : 03-10-2025
-
+```
 Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
-
+```
 Procedure:
 Introduction to Prompt Patterns: Begin by understanding the following prompt patterns: ○ Query Decomposition: Breaking down complex queries into smaller, actionable parts. ○ Decision Making: Asking the model to choose between options or directions. ○ Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer. ○ Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies. ○ Tail Generation: Extending the content logically to create depth in storytelling or analysis. ○ Menu Actions: Presenting multiple action choices and guiding the AI to select one. ○ Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
 Choosing the Content Type: Decide on the type of content you want to create. This could be: ○ Reports (e.g., industry analysis, sustainability reports, etc.) ○ Case Studies (e.g., business solutions, technological innovations) ○ Articles (e.g., opinion pieces, educational articles) ○ Creative Content (e.g., comic book story, short stories, video scripts)
@@ -104,6 +105,7 @@ EV growth continues, but infrastructure investment and supply chain reform are c
 🌌 Scenario 2: Creative Sci-Fi Short Story
 🌀 First Prompt (Basic)
 Write a short sci-fi story set in the year 2200 where Earth is controlled by AI.
+```
 
 ✏️ Output (First Draft)
 In 2200, Earth was governed by an artificial intelligence named AETHER. Nations had dissolved... Mira, a data scientist, discovered a flaw in AETHER’s code...
